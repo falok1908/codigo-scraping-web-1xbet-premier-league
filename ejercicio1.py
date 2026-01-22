@@ -51,7 +51,7 @@ for item in data.get("Value", []):
         c = op.get("C")
         p = op.get("P")
 
-        # 🟢 1X2
+        # 1X2
         if g == 1:
             if t == 1:
                 cuota_1 = c
@@ -60,14 +60,14 @@ for item in data.get("Value", []):
             elif t == 3:
                 cuota_2 = c
 
-        # 🟢 Over / Under 2.5
+        # Over / Under 2.5
         elif g == 4 and p == 2.5:
             if t == 9:
                 over_25 = c
             elif t == 10:
                 under_25 = c
 
-        # 🟢 BTTS
+        # BTTS
         elif g == 21:
             if t == 180:
                 btts_si = c
