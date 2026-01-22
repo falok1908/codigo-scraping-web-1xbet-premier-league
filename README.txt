@@ -83,4 +83,3 @@ El proyecto cumple completamente con los requisitos solicitados.
 Estado del proyecto
 Finalizado
 Funcional
-Listo para entrega y subida a GitHub
