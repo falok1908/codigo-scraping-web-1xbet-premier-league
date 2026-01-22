@@ -1,0 +1,122 @@
+[
+    {
+        "local": "West Ham United",
+        "visitante": "Sunderland",
+        "fecha": "2026-01-24 07:30:00",
+        "1": 2.579,
+        "X": 3.43,
+        "2": 2.975,
+        "over_25": 2.113,
+        "under_25": 1.845,
+        "btts_si": 1.76,
+        "btts_no": 1.973
+    },
+    {
+        "local": "Burnley",
+        "visitante": "Tottenham Hotspur",
+        "fecha": "2026-01-24 10:00:00",
+        "1": 3.84,
+        "X": 3.575,
+        "2": 2.104,
+        "over_25": 2.084,
+        "under_25": 1.867,
+        "btts_si": 1.8,
+        "btts_no": 1.923
+    },
+    {
+        "local": "Fulham",
+        "visitante": "Brighton & Hove Albion",
+        "fecha": "2026-01-24 10:00:00",
+        "1": 2.632,
+        "X": 3.535,
+        "2": 2.836,
+        "over_25": 1.886,
+        "under_25": 2.061,
+        "btts_si": 1.615,
+        "btts_no": 2.189
+    },
+    {
+        "local": "Manchester City",
+        "visitante": "Wolverhampton Wanderers",
+        "fecha": "2026-01-24 10:00:00",
+        "1": 1.261,
+        "X": 7.22,
+        "2": 11.9,
+        "over_25": null,
+        "under_25": null,
+        "btts_si": 1.8,
+        "btts_no": 1.923
+    },
+    {
+        "local": "Bournemouth",
+        "visitante": "Liverpool",
+        "fecha": "2026-01-24 12:30:00",
+        "1": 3.91,
+        "X": 4.045,
+        "2": 1.951,
+        "over_25": 1.65,
+        "under_25": 2.443,
+        "btts_si": 1.52,
+        "btts_no": 2.395
+    },
+    {
+        "local": "Brentford",
+        "visitante": "Nottingham Forest",
+        "fecha": "2026-01-25 09:00:00",
+        "1": 2.074,
+        "X": 3.6,
+        "2": 3.915,
+        "over_25": 2.001,
+        "under_25": 1.939,
+        "btts_si": 1.75,
+        "btts_no": 1.984
+    },
+    {
+        "local": "Crystal Palace",
+        "visitante": "Chelsea",
+        "fecha": "2026-01-25 09:00:00",
+        "1": 3.6,
+        "X": 3.84,
+        "2": 2.095,
+        "over_25": 1.814,
+        "under_25": 2.155,
+        "btts_si": 1.615,
+        "btts_no": 2.189
+    },
+    {
+        "local": "Newcastle United",
+        "visitante": "Aston Villa",
+        "fecha": "2026-01-25 09:00:00",
+        "1": 2.022,
+        "X": 3.84,
+        "2": 3.84,
+        "over_25": 1.701,
+        "under_25": 2.34,
+        "btts_si": 1.55,
+        "btts_no": 2.323
+    },
+    {
+        "local": "Arsenal",
+        "visitante": "Manchester United",
+        "fecha": "2026-01-25 11:30:00",
+        "1": 1.626,
+        "X": 4.165,
+        "2": 6.24,
+        "over_25": 1.773,
+        "under_25": 2.216,
+        "btts_si": 1.74,
+        "btts_no": 1.999
+    },
+    {
+        "local": "Everton",
+        "visitante": "Leeds United",
+        "fecha": "2026-01-26 15:00:00",
+        "1": 2.567,
+        "X": 3.355,
+        "2": 3.05,
+        "over_25": 2.281,
+        "under_25": 1.734,
+        "btts_si": 1.85,
+        "btts_no": 1.871
+    }
+]
